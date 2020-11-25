@@ -1,0 +1,10 @@
+{
+    "name": "personal_info",
+    "version": "1.0.0",
+    "description": "prints personal_info using cli-table3.",
+    "repository": "dlguswo333/personal_info",
+    "license": "MIT",
+    "dependencies": {
+        "cli-table3": "^0.6.0"
+    }
+}
